@@ -1,4 +1,4 @@
-https://i.ibb.co.com/xttFGY6c/Black-Modern-Gradient-Programmer-Presentation.png
+(https://ibb.co.com/8LLY2b9R)
 ### Hi there 👋, I am Abdullah Al Mamun
 #### web developer
 ![web developer]
