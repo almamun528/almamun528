@@ -1,6 +1,6 @@
+![web developer](https://i.ibb.co.com/wFSdWmMZ/github.png)
 ### Hi there 👋, I am Abdullah Al Mamun
 #### web developer
-![web developer](https://i.ibb.co.com/xttFGY6c/Black-Modern-Gradient-Programmer-Presentation.png)
 
 🚀 Frontend Developer | Happily collaborating with national & international teams
 💻 Expert in: JavaScript, React, API Integration 
